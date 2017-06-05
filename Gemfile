@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 
-ruby RUBY_VERSION # See https://github.com/bundler/bundler/pull/4651#issuecomment-235382389
-
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 4.2.4'
 
